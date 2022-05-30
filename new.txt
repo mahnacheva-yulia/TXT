@@ -1,0 +1,5 @@
+First name : Юлия 
+Last name : Махначёва 
+Age : 27 
+pets : нет 
+зарплата : 400 ye
